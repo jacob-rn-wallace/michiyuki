@@ -1,4 +1,4 @@
-# CLAUDE.md — Michiyuki
+# CLAUDE.md — Michiyuki Claude Code Context
 
 This file tells Claude Code what it needs to know to work on this repository effectively.
 
